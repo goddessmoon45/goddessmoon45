@@ -1,4 +1,4 @@
-<h1>Hi, I'm Keisha! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Keisha! Cybersecurity Analyst and Ladies Talk Cyber Contributor  <a href="(https://ladiestalk.tech/)">Ladies Talk Cyber</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
