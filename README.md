@@ -1,4 +1,4 @@
-<h1>Hi, I'm Keisha! Cybersecurity Analyst and Ladies Talk Cyber Contributor  <a href="(https://ladiestalk.tech/)">Ladies Talk Cyber</a>
+<h1>Hi, I'm Keisha! Cybersecurity Analyst and   <a href="(https://ladiestalk.tech/)">Ladies Talk Cyber Contributor</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
