@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/goddessmoon45/Azure-SOC)
   - [Incident Response in Microsoft Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
