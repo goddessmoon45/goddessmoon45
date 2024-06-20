@@ -7,6 +7,10 @@
   - [Incident Response in Microsoft Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
+<h2>👨‍💻 Coding Projects:</h2>
+<a href="https://replit.com/@lovelylynette44/Touchstone#main.py" target="_blank">Rock, Paper, Scissors Python Game</a>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
