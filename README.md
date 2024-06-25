@@ -8,7 +8,9 @@
 
 
 <h2>👨‍💻 Coding Projects:</h2>
-<a href="https://replit.com/@lovelylynette44/Touchstone#main.py" target="_blank">Rock, Paper, Scissors Python Game</a>
+<a href="https://replit.com/@lovelylynette44/Rock-Paper-Scissors-Game#main" target="_blank">Rock Paper Scissors Game in Python</a>
+    </p>
+
 
 
 
